@@ -6,6 +6,9 @@ import "./Profile.css";
 function CoachProfile () {
     return (
       <div className="page">
+        <div className="hero">
+            <img src="./assets/hero.png" alt="hero" className="hero-image"/>
+
         <div className="profile">
           <h1 className="label">Ken Wachira</h1>
 
@@ -23,6 +26,7 @@ function CoachProfile () {
               </p>
             </div>
           </div>
+        </div>
         </div>
       </div>
     );
