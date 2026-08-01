@@ -7,7 +7,7 @@ function CoachProfile () {
     return (
       <div className="page">
         <div className="left">
-          <img src="./assets/image.jpg" alt="hero" className="hero-image" />
+          <img src="./assets/images.jpg" alt="hero" className="hero-image" />
 
           <div className="profile">
             <h1 className="name">Ken Wachira</h1>
