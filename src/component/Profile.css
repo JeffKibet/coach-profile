@@ -2,11 +2,24 @@
     display: flex;
 }
 
-.profile{
+.left{
     position:relative;
     width: 50%;
     background-color: black;
     padding: 40px;
     margin: 0;
     aspect-ratio: 1/1;
+}
+
+.profile{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding:30px;
+}
+
+.name{
+    color: white;
+    font-size: 40px;
+    margin: 0;
 }

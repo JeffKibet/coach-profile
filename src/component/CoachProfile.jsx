@@ -6,11 +6,11 @@ import "./Profile.css";
 function CoachProfile () {
     return (
       <div className="page">
-        <div className="hero">
+        <div className="left">
             <img src="./assets/hero.png" alt="hero" className="hero-image"/>
 
         <div className="profile">
-          <h1 className="label">Ken Wachira</h1>
+          <h1 className="name">Ken Wachira</h1>
 
           <div className="Title">
             <h3>BasketBall Coach</h3>
@@ -25,6 +25,13 @@ function CoachProfile () {
                 3-point game with Ken Wachira, the maestro behind the arc
               </p>
             </div>
+          </div>
+
+          <div className="right">
+            <div>
+                <h2>Decisive Move Specialist</h2>
+            </div>
+
           </div>
         </div>
         </div>
