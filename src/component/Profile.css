@@ -1,6 +1,6 @@
 .page{
     display: flex;
-    
+    width: 80%;
 }
 
 .left{
@@ -9,7 +9,7 @@
     background-color: black;
     padding: 40px;
     margin: 0;
-    aspect-ratio: 1/1;
+    aspect-ratio: 2/3;
 }
 
 .profile{
@@ -48,8 +48,10 @@
 }
 
 .right{
-    width: 50%;
+    width: 35%;
     padding: 40px;
+    background-color: white;
+    color:black;
 }
 
 .section{
@@ -57,10 +59,11 @@
 }
 
 .label{
-    text-transform: uppercase;
     border-bottom: 3px solid orange;
     display:inline-block;
     padding-bottom: 5px;
+    color: black;
+    font-size:medium;
 }
 
 .footer{

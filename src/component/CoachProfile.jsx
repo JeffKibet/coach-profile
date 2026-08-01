@@ -33,7 +33,12 @@ function CoachProfile () {
         </div>
         <div className="right">
           <div className="section">
-            <h2 className="label">Decisive Move Specialist</h2>
+            <h2 className="label">DECISIVE MOVE SPECIALIST</h2>
+            <h4>Strength</h4>
+            <p>Strategic Vision & Quick Decision-Making & 3-Point Shooting</p>
+
+            <h4>Expertise</h4>
+            <p>Reading the game, Making decisive moves, excellent 3-point shooting</p>
           </div>
         </div>
       </div>
