@@ -1,4 +1,5 @@
 import "./Profile.css";
+import heroImg from "../assets/images.jpg";
 
 //const TrainingList = ["Point guards", "Small fowards", "Team strategies"];
 
@@ -7,7 +8,7 @@ function CoachProfile () {
     return (
       <div className="page">
         <div className="left">
-          <img src="./assets/images.jpg" alt="hero" className="hero-image" />
+          <img src={heroImg} alt="hero" className="hero-image" />
 
           <div className="profile">
             <h1 className="name">Ken Wachira</h1>
