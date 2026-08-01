@@ -10,14 +10,14 @@ function CoachProfile () {
             <img src="./assets/hero.png" alt="hero" className="hero-image"/>
 
         <div className="profile">
-          <h1 className="name">Ken Wachira</h1>
+          <h1 className="name">Ken Wachira</h1><br></br>
 
           <div className="Title">
-            <h3>BasketBall Coach</h3>
+            <h3 className="role">BasketBall Coach</h3>
 
             <div className="About">
               <h5>About</h5>
-              <p>
+              <p className="text">
                 Meet Ken Wachira, a Basketball strategist known for his quick
                 decision-making and game-reading abilities. His coaching style
                 emphasizes enhancing court vision and predicting oponents moves.
