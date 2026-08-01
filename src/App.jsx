@@ -1,4 +1,4 @@
-import './App.css';
+
 import CoachProfile from './component/CoachProfile';
 
 function App() {
