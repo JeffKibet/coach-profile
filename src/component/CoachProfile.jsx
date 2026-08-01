@@ -28,8 +28,8 @@ function CoachProfile () {
           </div>
 
           <div className="right">
-            <div>
-                <h2>Decisive Move Specialist</h2>
+            <div className="section">
+                <h2 className="label">Decisive Move Specialist</h2>
             </div>
 
           </div>
