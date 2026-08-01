@@ -1,3 +1,9 @@
 .profile{
-    background-color: #d00a0a;
+    background-color: #0B1330;
+    color: white;
+    text-align: center;
+    padding:60px;
+    margin: 40px auto;
+    aspect-ratio: 2/3;
+
 }
