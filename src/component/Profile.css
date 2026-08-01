@@ -18,6 +18,8 @@
     bottom: 0;
     left: 0;
     padding:30px;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .name{
