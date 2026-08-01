@@ -38,7 +38,34 @@ function CoachProfile () {
             <p>Strategic Vision & Quick Decision-Making & 3-Point Shooting</p>
 
             <h4>Expertise</h4>
-            <p>Reading the game, Making decisive moves, excellent 3-point shooting</p>
+            <p>Reading the game, Making decisive moves, excellent 3-point shooting</p> <br></br>
+
+            <h2 className="label">VISIONARY INSIGHT</h2>
+            <h4>Coaching Focus</h4>
+            <p>Improving court vision, Anticipating opponent moves</p>
+
+            <h4>Main Focus</h4>
+            <ul>
+                <li>Tactical insights</li>
+                <li>Rapid decision-making drills</li>
+            </ul>
+
+            <h2 className="label">TRAINING POSITIONS</h2>
+            <h4>Main Focus</h4>
+            <ul>
+                <li>Point guards</li>
+                <li>Small fowards </li>
+                <li>Team strategies</li>
+            </ul>
+
+            <h4>Also</h4>
+            <ul>
+                <li>Trains all basketball positions</li>
+            </ul>
+
+            <h2 className="label">ACOLADES</h2>
+            <h4>MVP 2022</h4>
+            <p>Renowned for his exceptional coaching skills and strategic mind</p>
           </div>
         </div>
       </div>
