@@ -10,13 +10,11 @@
 }
 
 .left{
-    position:relative;
+    position: relative;
     width: 50%;
     background-color: black;
     padding: 40px;
-    margin: 0;
     aspect-ratio: 2/3;
-    justify-content: space-between;
 }
 
 .profile{
